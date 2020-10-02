@@ -3,7 +3,7 @@ import time
 def clear(): 
   
     #win 
-    if name == '': 
+    if name == 'nt': 
         _ = system('cls') 
   
     #Linux,Unix and etc.
